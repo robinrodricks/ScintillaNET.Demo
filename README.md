@@ -11,5 +11,6 @@ We demonstrate:
 - suggestion lists / intellisense
 - code folding / regions
 - rectangular selection (hold ALT and drag)
+- drag and drop files
 
 ![](https://github.com/hgupta9/ScintillaNET.Demo/raw/master/images/demo1.png)

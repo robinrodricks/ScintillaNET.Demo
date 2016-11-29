@@ -13,8 +13,8 @@ We demonstrate:
 - drag and drop files
 - editing commands (casing, indenting)
 - quick search bar
-- zooming with scroll wheel (hold CTRL and scroll)
-- zooming with keyboard (Ctrl+ and Ctrl-)
+- zooming (hold CTRL and scroll)
+- hotkey system
 
 Coming soon:
 

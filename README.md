@@ -21,4 +21,4 @@ Coming soon:
 - brace matching
 - find & replace dialogs
 
-![](https://github.com/hgupta9/ScintillaNET.Demo/raw/master/images/demo1.png)
+![](https://github.com/hgupta9/ScintillaNET.Demo/raw/master/images/demo2.png)

@@ -11,7 +11,8 @@ We demonstrate:
 - code folding / regions
 - rectangular selection (hold ALT and drag)
 - drag and drop files
-- zooming (mouse wheel & hotkeys)
+- zooming with mouse wheel (hold CTRL and scroll)
+- zooming (Ctrl+ and Ctrl-)
 - editing commands (casing, indenting)
 - quick search bar
 

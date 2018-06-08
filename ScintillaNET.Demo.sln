@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScintillaNET.Demo", "ScintillaNET.Demo.csproj", "{69CE0FB9-99CF-4A40-A0AB-E39F5050054E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScintillaNET.Demo", "ScintillaNET.Demo\ScintillaNET.Demo.csproj", "{69CE0FB9-99CF-4A40-A0AB-E39F5050054E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
